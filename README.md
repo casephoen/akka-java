@@ -1,5 +1,5 @@
 #akka-java
 
-akka java版 示例
+akka测试 java版
 
 详情查看博客：http://blog.csdn.net/liuchangqing123
